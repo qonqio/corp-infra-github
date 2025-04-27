@@ -1,3 +1,3 @@
 primary_location   = "westus3"
-base_address_space = "10.45.0.0/23"
+address_space      = "10.47.0.0/22"
 additional_regions = {}
